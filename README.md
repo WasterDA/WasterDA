@@ -8,7 +8,7 @@
     <ul>
       <li>RAIKUN Launcher</li>
       <li>RAIKSTRIKE Game</li>
-      <li>Daniel Weigel.de</li>
+      <li>DanielWeigel.de</li>
     </ul>
   </li>
 </ul>
