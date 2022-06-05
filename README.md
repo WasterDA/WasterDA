@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasterda&label=Profile%20views&color=0e75b6&style=flat" alt="wasterda" /> </p>
 
+<ul>
+  <li>🔭 I’m currently working on
+    <ul>
+      <li>RAIKUN Launcher</li>
+      <li>RAIKSTRIKE GAME</li>
+      <li>Daniel Weigel.de</li>
+    </ul>
+  </li>
+</ul>
+
 🌱 I’m currently learning **C++, C#, Java, Python, PHP**
 
 <h3 align="left">Connect with me:</h3>
