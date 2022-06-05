@@ -7,7 +7,7 @@
   <li>🔭 I’m currently working on
     <ul>
       <li>RAIKUN Launcher</li>
-      <li>RAIKSTRIKE GAME</li>
+      <li>RAIKSTRIKE Game</li>
       <li>Daniel Weigel.de</li>
     </ul>
   </li>
